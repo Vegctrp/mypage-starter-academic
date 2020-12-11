@@ -55,7 +55,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = "https://gist.github.com/Vegctrp/304467af12e950eab8cfd136c47e3260"
   date_start = "2017-04-01"
-  date_end = ""
+  date_end = "2020-09-30"
   description = ""
 
 +++
