@@ -14,18 +14,19 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include competitive programming, CTF and Natural Language Processing.
+bio: My research interests include Natural Language Processing and Machine Learning.
 
 interests:
-- competitive programming
-- CTF
 - Natural Language Processing
+- Machine Learning
+- CTF(especially Crypto,Stego)
+- Math,physics
 
 education:
   courses:
   - course: Bachelor of Engineering
     institution: Tokyo Institute of Technology
-    year: 2017-(2021)
+    year: 2017-
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
