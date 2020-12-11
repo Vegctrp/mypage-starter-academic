@@ -17,9 +17,9 @@ subtitle = ""
 [[feature]]
   icon = ""
   icon_pack = "fab"
-  name = "Programming Languages"
+  name = "Programming envs"
   description = ""
-  skills = [["Python", "", ""], ["C++", "", ""]]
+  skills = [["Python3", "", ""], ["C++", "", ""], ["WSL2", "", ""], ["bash->fish", "", ""]]
   
 [[feature]]
   icon = ""
