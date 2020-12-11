@@ -41,6 +41,15 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/Vegctrp
+- icon: th-large
+  icon_pack: fas
+  link: https://altair626.work
+- icon: file-alt
+  icon_pack: fas
+  link: https://wiki.altair626.work
+- icon: blog
+  icon_pack: fas
+  link: https://blog.altair626.work
 
 #- icon: google-scholar
 #  icon_pack: ai
