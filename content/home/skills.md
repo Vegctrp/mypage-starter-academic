@@ -17,23 +17,30 @@ subtitle = ""
 [[feature]]
   icon = ""
   icon_pack = "fab"
-  name = "Programming envs"
+  name = "Main Programming Envs"
   description = ""
   skills = [["Python3", "", ""], ["C++", "", ""], ["WSL2", "", ""], ["bash->fish", "", ""]]
-  
+
+[[feature]]
+  icon = ""
+  icon_pack = "fab"
+  name = "skills"
+  description = ""
+  skills = [["Natural Language Processing", "", ""], ["Machine Learning", "", ""], ["Server Management", "", ""]]
+
 [[feature]]
   icon = ""
   icon_pack = "fas"
   name = "Competition"
   description = ""
-  skills = [["AtCoder (Blue)", "https://atcoder.jp/users/Altair626", "Altair626"], ["CTF", "", ""]]
+  skills = [["AtCoder (Blue)", "https://atcoder.jp/users/Altair626", "Altair626"], ["CTF(Crypto,Stego)", "", ""]]
 
 [[feature]]
   icon = ""
   icon_pack = "fas"
   name = "hobbies(study)"
   description = ""
-  skills = [["Natural Language", "", ""], ["math", "", ""], ["physics", "", ""]]
+  skills = [["Natural Language", "", ""], ["Mathematics", "", ""], ["Physics", "", ""], ["History(Military)", "", ""]]
 
 [[feature]]
   icon = ""
