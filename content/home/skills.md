@@ -38,6 +38,13 @@ subtitle = ""
 [[feature]]
   icon = ""
   icon_pack = "fas"
+  name = "Qualification"
+  description = ""
+  skills = [["応用情報技術者", "", ""], ["危険物取扱者 乙種1,3,4類", "", ""]]
+
+[[feature]]
+  icon = ""
+  icon_pack = "fas"
   name = "hobbies(study)"
   description = ""
   skills = [["Natural Language", "", ""], ["Mathematics", "", ""], ["Physics", "", ""], ["History(Military)", "", ""]]
