@@ -19,17 +19,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = ""
+  organization = "大学取得単位(github gist)"
   organization_url = ""
   title = ""
   url = ""
-  certificate_url = ""
-  date_start = "2018-10-01"
+  certificate_url = "https://gist.github.com/Vegctrp/304467af12e950eab8cfd136c47e3260"
+  date_start = "2017-04-01"
   date_end = ""
-  description = """
-    * a
-    * b
-    * c
-  """
+  description = ""
 
 +++

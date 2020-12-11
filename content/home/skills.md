@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Skills"
+title = "Skills/Hobbies"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -27,6 +27,13 @@ subtitle = ""
   name = "Competition"
   description = ""
   skills = [["AtCoder (Blue)", "https://atcoder.jp/users/Altair626", "Altair626"], ["CTF", "", ""]]
+
+[[feature]]
+  icon = ""
+  icon_pack = "fas"
+  name = "hobbies(study)"
+  description = ""
+  skills = [["Natural Language", "", ""], ["math", "", ""], ["physics", "", ""]]
 
 [[feature]]
   icon = ""
