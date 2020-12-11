@@ -16,33 +16,32 @@
   {{ end }}
 
   {{ range $page.Params.feature }}
-    {{ $pack := or .icon_pack "fas" }}
-    {{ $pack_prefix := $pack }}
-    {{ if in (slice "fab" "fas" "far" "fal") $pack }}
+  {{ $pack := or .icon_pack "fas" }}
+  {{ $pack_prefix := $pack }}
+  {{ if in (slice "fab" "fas" "far" "fal") $pack }}
     {{ $pack_prefix = "fa" }}
-    {{ end }}
+  {{ end }}
 
-    <div class="col-12 col-sm-6 ">
-      <div class="card" style="height: 95%; width: 100%; padding: 12%">
-      {{ with .icon }}<div class="featurette-icon"><i class="{{ $pack }} {{ $pack_prefix }}-{{ . }}"></i></div>
+  <div class="col-12 col-sm-6 ">
+    <div class="card" style="height: 95%; width: 100%; padding: 12%">
+    {{ with .icon }}
+    <div class="featurette-icon"><i class="{{ $pack }} {{ $pack_prefix }}-{{ . }}"></i></div>
+    {{ end }}
+    <h3>{{ .name | markdownify | emojify }}</h3>
+    {{ with .description }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
+    <ul class="list-group">
+      {{ range .skills }}
+      <li class="list-group-item" style="font-size: 1rem">
+        {{ index . 0}}
+        <a class="card-link" href="{{index . 1}}" target="_blank" rel="noopener">
+          <p>
+            {{index . 2}}
+          </p>
+        </a>
+      </li>
       {{ end }}
-      <h3>{{ .name | markdownify | emojify }}</h3>
-      {{ with .description }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
-      <ul class="list-group">
-        {{ range .skills }}
-        <li class="list-group-item" style="font-size: 1rem">
-            {{ index . 0}}
-            <a class="card-link" href="{{index . 1}}" target="_blank" rel="noopener">
-                <p>
-                    {{index . 2}}
-                </p>
-            </a>
-        </li>
-        {{ end }}
-
-      </ul>
-      </div>
+    </ul>
     </div>
-    {{ end }}
-
+  </div>
+  {{ end }}
 </div>
