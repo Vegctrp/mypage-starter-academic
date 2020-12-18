@@ -44,7 +44,7 @@ social:
   link: https://github.com/Vegctrp
 - icon: th-large
   icon_pack: fas
-  link: https://altair626.work
+  link: https://front.altair626.work
 - icon: file-alt
   icon_pack: fas
   link: https://wiki.altair626.work
