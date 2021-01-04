@@ -35,6 +35,7 @@ slides: example
 - [blog(ghost)](https://blog.altair626.work)
 - [wiki(Growi)](https://wiki.altair626.work)
 - [Nuxt.jsで作った謎のページ](https://front.altair626.work)
+
 を載せ、nginxでうまいこと捌いています。
 
 [blog](https://blog.altair626.work)では一週間ごとに日記をつけるのと、CTFの大会に参加した際のWriteUpを書く目的で使用しています。
