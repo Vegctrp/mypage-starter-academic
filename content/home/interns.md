@@ -26,6 +26,7 @@ date_format = "2006-01-02"
   date_start = "2020-08-20"
   date_end = "2020-09-04"
   description = """
+  広告サービスのログを用いたアドテクの性能向上
   """
 
 [[experience]]
@@ -36,6 +37,7 @@ date_format = "2006-01-02"
   date_start = "2018-12-12"
   date_end = "2019-04-22"
   description = """
+  視線追跡機能の改善
   """
 
 +++

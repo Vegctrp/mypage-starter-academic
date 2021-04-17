@@ -6,7 +6,7 @@ title: Keisuke Miyazaki
 superuser: true
 
 # Role/position
-role: 4th year undergraduate student in Tokyo Tech
+role: 1st-year master's student in Tokyo Tech
 
 # Organizations/Affiliations
 organizations:
@@ -26,7 +26,10 @@ education:
   courses:
   - course: Bachelor of Engineering
     institution: Tokyo Institute of Technology
-    year: 2017-
+    year: 2017-2021
+  - course: Masater of Engineering
+    institution: Tokyo Institute of Technology
+    year: 2021-
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
