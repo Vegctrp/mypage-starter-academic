@@ -31,7 +31,7 @@ date_format = "2006-01-02"
 
 [[experience]]
   title = "Researcher Intern"
-  company = "Fove inc."
+  company = "FOVE inc."
   company_url = ""
   location = ""
   date_start = "2018-12-12"
