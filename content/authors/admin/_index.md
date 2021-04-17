@@ -27,7 +27,7 @@ education:
   - course: Bachelor of Engineering
     institution: Tokyo Institute of Technology
     year: 2017-2021
-  - course: Masater of Engineering
+  - course: Master of Engineering
     institution: Tokyo Institute of Technology
     year: 2021-
 
