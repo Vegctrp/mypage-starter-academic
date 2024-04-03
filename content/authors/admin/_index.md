@@ -25,11 +25,7 @@ organizations:
     url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My name is MIYAZAKI Keisuke (宮崎桂輔). I'm a corporate researcher in Fujitsu Limited. I got a master's degree in [Tokunaga-Lab]
-(https://www.cl.c.titech.ac.jp/tokunaga/ja/start), [School of Computing]
-(https://www.titech.ac.jp/english/about/organization/schools/organization04), [Tokyo Institute of Technology](https://www.titech.ac.jp/english).
-
-I'm interested in natural language processing. Especially, I study topics including **neural machine translation** and **pretrained language models**.
+bio: Corporate researcher in Fujitsu Limited. Interested in NLP.
 
 # Interests to show in About widget
 interests:
