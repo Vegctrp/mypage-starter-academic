@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: MIYAZAKI Keisuke
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: MIYAZAKI Keisuke
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: MIYAZAKI
+last_name: Keisuke
 
 # Status emoji
 status:
@@ -17,34 +17,38 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Corporate researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Fujitsu Limited.
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My name is MIYAZAKI Keisuke (宮崎桂輔). I'm a corporate researcher in Fujitsu Limited. I got a master's degree in [Tokunaga-Lab]
+(https://www.cl.c.titech.ac.jp/tokunaga/ja/start), [School of Computing]
+(https://www.titech.ac.jp/english/about/organization/schools/organization04), [Tokyo Institute of Technology](https://www.titech.ac.jp/english).
+
+I'm interested in natural language processing. Especially, I study topics including **neural machine translation** and **pretrained language models**.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Natural Language Processing
+  - Machine Learning
+  - Domain adaptation, Retrieval
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Bachelor of Engineering
+      institution: Dept. of Computer Science, Tokyo Institute of Technology
+      year: 2017.04-2021.03
+    - course: Master of Engineering (Major)
+      institution: Graduate Major in "Artificial Intelligence", School of Computing, Tokyo Institute of Technology
+      year: 2021.04-2023.03
+    - course: Master of Engineering (Minor)
+      institution: Graduate Minor in "Physics", "Mathmatics", "Cyber Security", and "Data Science and AI", Tokyo Institute of Technology
+      year: 2021.04-2023.03
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -96,19 +100,19 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/Veg_ctrp
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.jp/citations?user=E79z_fgAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Vegctrp
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/altair626/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +124,7 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My name is MIYAZAKI Keisuke (宮崎桂輔). I'm a corporate researcher in Fujitsu Limited. I got a master's degree in [Tokunaga-Lab](https://www.cl.c.titech.ac.jp/tokunaga/ja/start), [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04), [Tokyo Institute of Technology](https://www.titech.ac.jp/english).
+
+I'm interested in natural language processing. Especially, I study topics including **neural machine translation** and **pretrained language models**.
 {style="text-align: justify;"}
