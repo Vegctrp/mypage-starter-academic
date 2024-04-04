@@ -206,7 +206,7 @@ sections:
           url: ''
         - certificate_url: 
           date_end: ''
-          date_start: '2019-07'
+          date_start: '2019-07-01'
           description: 'チーム参加 108位'
           icon: 
           organization: 
@@ -215,7 +215,7 @@ sections:
           url: ''
         - certificate_url: 
           date_end: ''
-          date_start: '2018-12'
+          date_start: '2018-12-01'
           description: 'チーム参加 578点・20位'
           icon: 
           organization: 
@@ -256,8 +256,8 @@ sections:
           title: 圏論をやりました
           url: 'https://wiki.altair626.work/studies/math/Category_wa'
         - certificate_url: 
-          date_end: '2020-07'
-          date_start: '2020-04'
+          date_end: '2020-07-01'
+          date_start: '2020-04-01'
           description: ''
           icon: 
           organization: 
@@ -274,8 +274,8 @@ sections:
           title: 雪江代数2を完走しました
           url: 'https://wiki.altair626.work/studies/math/RingTheory'
         - certificate_url: 
-          date_end: '2019-09'
-          date_start: '2019-08'
+          date_end: '2019-09-01'
+          date_start: '2019-08-01'
           description: ''
           icon: 
           organization: 
@@ -283,8 +283,8 @@ sections:
           title: 画像処理100本ノック
           url: 'https://github.com/Vegctrp/pic100knock'
         - certificate_url: 
-          date_end: '2019-08'
-          date_start: '2017-04'
+          date_end: '2019-08-01'
+          date_start: '2017-04-01'
           description: ''
           icon: 
           organization: 
