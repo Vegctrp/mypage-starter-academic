@@ -100,8 +100,8 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.co.jp/citations?user=E79z_fgAAAAJ
   - icon: github
     icon_pack: fab
@@ -109,12 +109,13 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/altair626/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  - icon: blog
+    icon_pack: fas
+    link: https://blog.altair626.work/
+  - icon: book
+    icon_pack: fas
+    link: https://wiki.altair626.work/
+
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
