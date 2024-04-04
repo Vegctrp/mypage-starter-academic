@@ -41,7 +41,7 @@ sections:
           description: Research NLP at Artificial Intelligence Lab.
     design:
       columns: '2'
-  - block: interns
+  - block: experience
     content:
       title: Internships
       date_format: 2006-01
@@ -80,7 +80,7 @@ sections:
           description: Improving eye tracking
     design:
       columns: '2'
-  - block: history
+  - block: experience
     content:
       title: History
       date_format: 2006-01
@@ -122,7 +122,7 @@ sections:
           description: 
     design:
       columns: '2'
-  - block: qualifications
+  - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Qualifications'
@@ -233,7 +233,7 @@ sections:
           url: ''
     design:
       columns: '2'
-  - block: selflearnings
+  - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Self-Learnings'
