@@ -1,5 +1,5 @@
 ---
-title: '日本語法律分野文書に特化したBERTの構築 (main author)'
+title: '日本語法律BERTを用いた判決書からの重要箇所抽出 (co-author)'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -9,7 +9,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'main author'
+  - 'co-author'
 
 date: '2022-03-14T00:00:00Z'
 doi: ''
@@ -26,7 +26,7 @@ publication_types: ['paper-conference']
 publication: In *言語処理学会第28回年次大会*
 publication_short: In *NLP2022*
 
-abstract: 本論文では日本語の法律分野に特化したBERTモデルを提案する．民事事件判決書コーパスを用い，BERTを一から事前学習するモデルと，既存の汎用日本語BERTに追加事前学習するモデルを作成した．実験より，民事事件判決書を用いたMasked Language Model，Next Sentence Prediction タスクについては既存の汎用日本語BERTに追加事前学習する手法が最も良い正解率を示すことがわかった．
+abstract: 本研究では判決書からの重要箇所抽出タスクにおいて，法律分野の文書のみで事前学習を行ったBERT，日本語Wikipediaで事前学習されたBERTから追加の事前学習を行なったBERTを用い，その性能を汎用日本語BERTと比較検証した．実験より，法律分野に特化したBERTモデルを用いることで，汎用日本語BERTを超える性能があることを確認した．
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -39,9 +39,9 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: Program of NLP2022
-  url: https://www.anlp.jp/nlp2022/program.html#PT3-7
+  url: https://www.anlp.jp/nlp2022/program.html#PT1-10
 
-url_pdf: 'https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PT3-7.pdf'
+url_pdf: 'https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PT1-10.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

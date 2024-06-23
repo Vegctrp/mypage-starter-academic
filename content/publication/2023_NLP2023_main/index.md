@@ -1,5 +1,5 @@
 ---
-title: '日本語法律分野文書に特化したBERTの構築 (main author)'
+title: '複数の参照訳を考慮したニューラル機械翻訳モデルの学習手法 (main author)'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -11,7 +11,7 @@ authors:
 author_notes:
   - 'main author'
 
-date: '2022-03-14T00:00:00Z'
+date: '2023-03-13T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -23,10 +23,10 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *言語処理学会第28回年次大会*
-publication_short: In *NLP2022*
+publication: In *言語処理学会第29回年次大会*
+publication_short: In *NLP2023*
 
-abstract: 本論文では日本語の法律分野に特化したBERTモデルを提案する．民事事件判決書コーパスを用い，BERTを一から事前学習するモデルと，既存の汎用日本語BERTに追加事前学習するモデルを作成した．実験より，民事事件判決書を用いたMasked Language Model，Next Sentence Prediction タスクについては既存の汎用日本語BERTに追加事前学習する手法が最も良い正解率を示すことがわかった．
+abstract: 文の翻訳では訳者や文脈などの条件により異なる訳文が期待され，機械翻訳タスクのベンチマークに用いられる対訳コーパス内にも一つの原文に複数の参照訳が対応している例が多く存在する．一方で既存の機械翻訳モデルの学習手法ではこうしたコーパス内の構造は明示的には用いられない．そこで本研究では，コーパス内の原文が複数の参照訳を持っているという情報を，機械翻訳モデルの学習に明示的に用いる手法を提案する．評価実験において，提案手法を用いて学習したモデルは旧来の最尤誤差損失のみを用いたモデルに劣る結果となったが，提案手法が文レベル最適輸送損失を用いて学習するモデルの性能向上には寄与することが示された．
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -38,10 +38,10 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Program of NLP2022
-  url: https://www.anlp.jp/nlp2022/program.html#PT3-7
+- name: Program of NLP2023
+  url: https://www.anlp.jp/proceedings/annual_meeting/2023/#P10-4
 
-url_pdf: 'https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PT3-7.pdf'
+url_pdf: 'https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/P10-4.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

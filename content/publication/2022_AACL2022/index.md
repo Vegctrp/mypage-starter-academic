@@ -1,5 +1,5 @@
 ---
-title: '日本語法律分野文書に特化したBERTの構築 (main author)'
+title: 'Cross-domain Analysis on Japanese Legal Pretrained Language Models (main author)'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -11,7 +11,7 @@ authors:
 author_notes:
   - 'main author'
 
-date: '2022-03-14T00:00:00Z'
+date: '2022-11-20T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -23,10 +23,10 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *言語処理学会第28回年次大会*
-publication_short: In *NLP2022*
+publication: In *The 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing*
+publication_short: In *AACL-IJCNLP 2022*
 
-abstract: 本論文では日本語の法律分野に特化したBERTモデルを提案する．民事事件判決書コーパスを用い，BERTを一から事前学習するモデルと，既存の汎用日本語BERTに追加事前学習するモデルを作成した．実験より，民事事件判決書を用いたMasked Language Model，Next Sentence Prediction タスクについては既存の汎用日本語BERTに追加事前学習する手法が最も良い正解率を示すことがわかった．
+abstract: This paper investigates the pretrained language model (PLM) specialised in the Japanese legal domain. We create PLMs using different pretraining strategies and investigate their performance across multiple domains. Our findings are (i) the PLM built with general domain data can be improved by further pretraining with domain-specific data, (ii) domain-specific PLMs can learn domain-specific and general word meanings simultaneously and can distinguish them, (iii) domain-specific PLMs work better on its target domain; still, the PLMs retain the information learnt in the original PLM even after being further pretrained with domainspecific data, (iv) the PLMs sequentially pretrained with corpora of different domains show high performance for the later learnt domains.
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -38,10 +38,10 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Program of NLP2022
-  url: https://www.anlp.jp/nlp2022/program.html#PT3-7
+- name: ACL anthology page
+  url: https://aclanthology.org/2022.findings-aacl.26/
 
-url_pdf: 'https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PT3-7.pdf'
+url_pdf: 'https://aclanthology.org/2022.findings-aacl.26.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
