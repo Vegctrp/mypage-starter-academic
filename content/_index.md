@@ -162,6 +162,24 @@ sections:
           organization_url: 
           title: 第三種電気主任技術者 (The Third Class Electric Chief Engineer)
           url: ''
+        - certificate_url: 
+          date_end: ''
+          date_start: '2025-05-02'
+          description: ''
+          icon: 
+          organization: 
+          organization_url: 
+          title: 日商簿記3級 (Nissho Bookkeeping Test Grade 3)
+          url: ''
+        - certificate_url: 
+          date_end: ''
+          date_start: '2025-12-25'
+          description: ''
+          icon: 
+          organization: 
+          organization_url: 
+          title: データベーススペシャリスト (Database Specialist)
+          url: ''
     design:
       columns: '2'
   - block: accomplishments
