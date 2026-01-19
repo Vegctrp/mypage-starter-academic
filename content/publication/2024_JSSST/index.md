@@ -24,7 +24,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *日本ソフトウェア科学会 第42回大会講演論文集*
-publication_short: In *SES*
+publication_short: In *JSSST*
 
 abstract: xxx
 
@@ -38,7 +38,7 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Program of SES42
+- name: Program of JSSST42
   url: https://jssst.or.jp/files/user/taikai/2025/proceedings.html
 
 url_pdf: ''
